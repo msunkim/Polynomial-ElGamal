@@ -1,7 +1,4 @@
 # Introduction
 
-Polynomial El Gamal is a variant of standard El Gamal so that plaintex messages are considered as roots of polynoimial in $\mathbb{Z}_p[x]$.
-
-
-# Applications
-- Constant round mix-net
+This implementation is a variant of standard El Gamal so that plaintex messages are considered as the roots of polynoimial in $\mathbb{F}_p[x]$.
+Consider a usage scenario of this primitive as follows:
